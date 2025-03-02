@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\Desktop\\appJuegos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|c:\\users\\alumno\\desktop\\appjuegos\\appjuegos\\juegocontrol .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|solutionrelative:appjuegos\\juegocontrol .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|c:\\users\\alumno\\desktop\\appjuegos\\appjuegos\\adminjuegosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|solutionrelative:appjuegos\\adminjuegosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|c:\\users\\alumno\\desktop\\appjuegos\\appjuegos\\adminjuegosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|solutionrelative:appjuegos\\adminjuegosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|c:\\users\\alumno\\desktop\\appjuegos\\appjuegos\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|solutionrelative:appjuegos\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|c:\\users\\alumno\\desktop\\appjuegos\\appjuegos\\adminjuegosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|solutionrelative:appjuegos\\adminjuegosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|c:\\users\\alumno\\desktop\\appjuegos\\appjuegos\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|solutionrelative:appjuegos\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|c:\\users\\alumno\\desktop\\appjuegos\\appjuegos\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A636020A-38C4-44D1-A6C9-19135241A5DE}|appJuegos\\appJuegos.csproj|solutionrelative:appjuegos\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JuegoControl .cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\JuegoControl .cs",
+              "RelativeDocumentMoniker": "appJuegos\\JuegoControl .cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\JuegoControl .cs [Dise\u00F1o]",
+              "RelativeToolTip": "appJuegos\\JuegoControl .cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:15:59.731Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminJuegosForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\AdminJuegosForm.Designer.cs",
+              "RelativeDocumentMoniker": "appJuegos\\AdminJuegosForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\AdminJuegosForm.Designer.cs",
+              "RelativeToolTip": "appJuegos\\AdminJuegosForm.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:52:04.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminJuegosForm.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\AdminJuegosForm.cs",
+              "RelativeDocumentMoniker": "appJuegos\\AdminJuegosForm.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\AdminJuegosForm.cs",
+              "RelativeToolTip": "appJuegos\\AdminJuegosForm.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:49:43.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminJuegosForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\AdminJuegosForm.cs",
+              "RelativeDocumentMoniker": "appJuegos\\AdminJuegosForm.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\AdminJuegosForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "appJuegos\\AdminJuegosForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:49:33.647Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\AdminForm.cs",
+              "RelativeDocumentMoniker": "appJuegos\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\AdminForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "appJuegos\\AdminForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:32:17.725Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\AdminForm.cs",
+              "RelativeDocumentMoniker": "appJuegos\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\AdminForm.cs",
+              "RelativeToolTip": "appJuegos\\AdminForm.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAuwMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:42:53.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "appJuegos\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\appJuegos\\appJuegos\\AdminForm.Designer.cs",
+              "RelativeToolTip": "appJuegos\\AdminForm.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwLoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:33:26.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
